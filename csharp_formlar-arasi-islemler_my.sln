@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_formlar-arasi-islemler_my", "csharp_formlar-arasi-islemler_my\csharp_formlar-arasi-islemler_my.csproj", "{AE0F964B-14FD-4CD1-BBFC-1BE7EFA71757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0F964B-14FD-4CD1-BBFC-1BE7EFA71757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0F964B-14FD-4CD1-BBFC-1BE7EFA71757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0F964B-14FD-4CD1-BBFC-1BE7EFA71757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0F964B-14FD-4CD1-BBFC-1BE7EFA71757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8898B738-7205-4DFA-BC66-B1D04CDDCE17}
+	EndGlobalSection
+EndGlobal
